@@ -1,0 +1,5 @@
+I participated in this iteration of the project, 
+I created:
+	two of the brief use case descriptions
+	part of the data dictionary
+	"take a turn" fully dressed use case description
