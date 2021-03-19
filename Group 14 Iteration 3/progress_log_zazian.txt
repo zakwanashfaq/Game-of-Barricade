@@ -1,0 +1,12 @@
+Zakwan Ashfaq Zian
+zazian@mun.ca
+201950250
+---------------------------------------
+implemented save feature
+implemented load feature
+implemented move_pawn(prototype)-works enough to show save and load feature
+                                 polished version in final iteration
+implemented reset game
+implemented show which players turn it is in bottom left
+implemented player color display when loading
+fixed a number of bugs
