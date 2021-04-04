@@ -1,0 +1,8 @@
+Zakwan Ashfaq Zian
+201950250
+Made the game work
+wrote code for barricades
+wrote code for making moves
+fixed save_game and load game to work with barricades
+fixed restart to work with barricades
+made it all work together 
